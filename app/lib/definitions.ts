@@ -86,3 +86,6 @@ export type InvoiceForm = {
   amount: number;
   status: 'pending' | 'paid';
 };
+
+// Different ways to style Next.js app:
+//
